@@ -1,0 +1,5 @@
+name: CardboardMC
+version: '1.0-SNAPSHOT'
+main: org.cardboardmc.cardboardMC.CardboardMC
+api-version: '1.21'
+load: STARTUP
